@@ -1,0 +1,2138 @@
+{
+  "kind": "blogger#postList",
+  "items": [
+    {
+      "kind": "blogger#post",
+      "id": "820427750708111875",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T07:18:00-07:00",
+      "updated": "2021-07-25T07:18:28-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/administrative-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/820427750708111875",
+      "title": "Administrative law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/820427750708111875/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIyNzA4NjcyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3519761675403455824",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T07:16:00-07:00",
+      "updated": "2021-07-25T07:16:44-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/constitutional-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3519761675403455824",
+      "title": "Constitutional law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3519761675403455824/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIyNjA0MDc0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3780768022076556413",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T07:15:00-07:00",
+      "updated": "2021-07-25T07:15:27-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/contract.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3780768022076556413",
+      "title": "Contract",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3780768022076556413/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIyNTI3MTcyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3011566234205697272",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T07:03:00-07:00",
+      "updated": "2021-07-25T07:03:45-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/criminal-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3011566234205697272",
+      "title": "Criminal law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3011566234205697272/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIxODI1MDAwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6249768373078118153",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T07:02:00-07:00",
+      "updated": "2021-07-25T07:02:17-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/equity-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/6249768373078118153",
+      "title": "Equity (law)",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/6249768373078118153/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIxNzM3NTI5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1816797674850135257",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T07:00:00-07:00",
+      "updated": "2021-07-25T07:00:52-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/evidence-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/1816797674850135257",
+      "title": "Evidence (law)",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/1816797674850135257/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIxNjUyOTU3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7758851033443252056",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:59:00-07:00",
+      "updated": "2021-07-25T06:59:18-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/law-of-obligations.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7758851033443252056",
+      "title": "Law of obligations",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7758851033443252056/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIxNTU4NjEzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4520722976254797110",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:58:00-07:00",
+      "updated": "2021-07-25T06:58:09-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/procedural-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4520722976254797110",
+      "title": "Procedural law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4520722976254797110/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIxNDg5NzY1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8162223934945738728",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:56:00-07:00",
+      "updated": "2021-07-25T06:56:52-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/civil-procedure.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8162223934945738728",
+      "title": "Civil procedure",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8162223934945738728/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIxNDEyODI3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9151226845397241244",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:55:00-07:00",
+      "updated": "2021-07-25T06:55:17-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/criminal-procedure.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/9151226845397241244",
+      "title": "Criminal procedure",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/9151226845397241244/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIxMzE3NDc1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "417945985505341702",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:54:00-07:00",
+      "updated": "2021-07-25T06:54:02-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/property-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/417945985505341702",
+      "title": "Property law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/417945985505341702/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIxMjQyMjk4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6604464495044972868",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:52:00-07:00",
+      "updated": "2021-07-25T06:52:12-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/public-international-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/6604464495044972868",
+      "title": "Public international law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/6604464495044972868/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIxMTMyMzk5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8802768253828352645",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:49:00-07:00",
+      "updated": "2021-07-25T06:49:36-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/public-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8802768253828352645",
+      "title": "Public law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8802768253828352645/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIwOTc2MDU5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7327757709625836065",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:47:00-07:00",
+      "updated": "2021-07-25T06:47:52-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/restitution.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7327757709625836065",
+      "title": "Restitution",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7327757709625836065/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIwODcyMDc0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7507412417717690289",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:46:00-07:00",
+      "updated": "2021-07-25T06:46:03-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/statutory-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7507412417717690289",
+      "title": "Statutory law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7507412417717690289/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIwNzYzMTk4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "298373171572666710",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:44:00-07:00",
+      "updated": "2021-07-25T06:44:20-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/tort.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/298373171572666710",
+      "title": "Tort",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/298373171572666710/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIwNjYwNzEyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7023484711485163421",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:42:00-07:00",
+      "updated": "2021-07-25T06:42:32-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/admiralty-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7023484711485163421",
+      "title": "Admiralty law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7023484711485163421/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIwNTUyMDM1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7887284230796813604",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:40:00-07:00",
+      "updated": "2021-07-25T06:40:57-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/aviation-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7887284230796813604",
+      "title": "Aviation law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7887284230796813604/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIwNDU3MTA0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3407156329904930462",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:39:00-07:00",
+      "updated": "2021-07-25T06:39:48-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/bank-regulation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3407156329904930462",
+      "title": "Bank regulation",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3407156329904930462/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIwMzg4NTQ1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5428658529395882683",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:38:00-07:00",
+      "updated": "2021-07-25T06:38:22-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/bankruptcy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/5428658529395882683",
+      "title": "Bankruptcy",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/5428658529395882683/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIwMzAyODA5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1923637534234023006",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:36:00-07:00",
+      "updated": "2021-07-25T06:36:27-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/commercial-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/1923637534234023006",
+      "title": "Commercial law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/1923637534234023006/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIwMTg3OTY3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2390265316104156016",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:35:00-07:00",
+      "updated": "2021-07-25T06:35:08-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/corporate-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/2390265316104156016",
+      "title": "Corporate law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/2390265316104156016/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjIwMTA4NTg0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7955129488625883135",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:33:00-07:00",
+      "updated": "2021-07-25T06:33:11-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/competition-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7955129488625883135",
+      "title": "Competition law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7955129488625883135/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE5OTkxMDk5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "692412331992363693",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:12:00-07:00",
+      "updated": "2021-07-25T06:12:44-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/conflict-of-laws.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/692412331992363693",
+      "title": "Conflict of laws",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/692412331992363693/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE4NzY0NjgzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1915064846960096129",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:11:00-07:00",
+      "updated": "2021-07-25T06:11:25-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/consumer-protection.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/1915064846960096129",
+      "title": "Consumer protection",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/1915064846960096129/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE4Njg1MTU0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2902849234277308391",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:09:00-07:00",
+      "updated": "2021-07-25T06:09:54-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/legal-aspects-of-computing.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/2902849234277308391",
+      "title": "Legal aspects of computing",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/2902849234277308391/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE4NTk0MDM1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7287518019650481821",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:07:00-07:00",
+      "updated": "2021-07-25T06:07:05-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/election-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7287518019650481821",
+      "title": "Election law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7287518019650481821/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE4NDI1MzUzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1526582238296403801",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:05:00-07:00",
+      "updated": "2021-07-25T06:05:42-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/energy-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/1526582238296403801",
+      "title": "Energy law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/1526582238296403801/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE4MzQyMDMzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8990557992739180629",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T06:01:00-07:00",
+      "updated": "2021-07-25T06:01:48-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/entertainment-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8990557992739180629",
+      "title": "Entertainment law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8990557992739180629/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE4MTA4NDA2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8660205630073530671",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T05:39:00-07:00",
+      "updated": "2021-07-25T05:39:20-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/environmental-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8660205630073530671",
+      "title": "Environmental law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8660205630073530671/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE2NzYwNDY0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4721499341524993179",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T05:37:00-07:00",
+      "updated": "2021-07-25T05:37:17-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/family-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4721499341524993179",
+      "title": "Family law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4721499341524993179/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE2NjM3NDk1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "250348113512736087",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T05:35:00-07:00",
+      "updated": "2021-07-25T05:35:22-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/financial-regulation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/250348113512736087",
+      "title": "Financial regulation",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/250348113512736087/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE2NTIyNjgwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4379581887610210321",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T05:34:00-07:00",
+      "updated": "2021-07-25T05:34:00-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/health-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4379581887610210321",
+      "title": "Health law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4379581887610210321/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE2NDQwMjkyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7012015435727555660",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T05:32:00-07:00",
+      "updated": "2021-07-25T05:32:35-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/immigration-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7012015435727555660",
+      "title": "Immigration law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7012015435727555660/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE2MzU1NjQzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2862889139692293991",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T05:29:00-07:00",
+      "updated": "2021-07-25T05:29:03-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/intellectual-property.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/2862889139692293991",
+      "title": "Intellectual property",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/2862889139692293991/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE2MTQzODM3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7633925478491177044",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T05:27:00-07:00",
+      "updated": "2021-07-25T05:27:11-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/international-criminal-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7633925478491177044",
+      "title": "International criminal law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7633925478491177044/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE2MDMxNTkwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4562871574931662834",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T05:24:00-07:00",
+      "updated": "2021-07-25T05:24:52-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/international-human-rights-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4562871574931662834",
+      "title": "International human rights law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4562871574931662834/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE1ODkyNjE0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8228114682655378915",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T05:23:00-07:00",
+      "updated": "2021-07-25T05:23:21-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/labour-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8228114682655378915",
+      "title": "Labour law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8228114682655378915/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE1ODAxNDcxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8379115733124997083",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T05:21:00-07:00",
+      "updated": "2021-07-25T05:21:31-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/military-justice.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8379115733124997083",
+      "title": "Military justice",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8379115733124997083/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE1NjkxMjEwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2107429491471690104",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T05:09:00-07:00",
+      "updated": "2021-07-25T05:09:55-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/product-liability.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/2107429491471690104",
+      "title": "Product liability",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/2107429491471690104/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE0OTk1NTgxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4406622999175124788",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T05:07:00-07:00",
+      "updated": "2021-07-25T05:07:48-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/space-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4406622999175124788",
+      "title": "Space law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4406622999175124788/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE0ODY4MzA2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1763862436656012270",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T05:05:00-07:00",
+      "updated": "2021-07-25T05:05:56-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/sports-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/1763862436656012270",
+      "title": "Sports law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/1763862436656012270/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE0NzU2NzUxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8585314919786542093",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T05:04:00-07:00",
+      "updated": "2021-07-25T05:04:20-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/tax-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8585314919786542093",
+      "title": "Tax law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8585314919786542093/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE0NjYwOTE3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2017250294401491140",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T05:03:00-07:00",
+      "updated": "2021-07-25T05:03:04-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/trust-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/2017250294401491140",
+      "title": "Trust law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/2017250294401491140/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE0NTg0MzE0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "718089440255272303",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T05:01:00-07:00",
+      "updated": "2021-07-25T05:01:24-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/unjust-enrichment.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/718089440255272303",
+      "title": "Unjust enrichment",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/718089440255272303/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE0NDg0MzExCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "541604111239485433",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T04:58:00-07:00",
+      "updated": "2021-07-25T04:58:28-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/will-and-testament.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/541604111239485433",
+      "title": "Will and testament",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/541604111239485433/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjE0MzA4NjczCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8032558514971826553",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T01:37:00-07:00",
+      "updated": "2021-07-25T01:37:17-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/constitution.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8032558514971826553",
+      "title": "Constitution",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8032558514971826553/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjAyMjM3ODQ1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4212984881123664875",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T01:31:00-07:00",
+      "updated": "2021-07-25T01:31:59-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/custom-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4212984881123664875",
+      "title": "Custom (law)",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4212984881123664875/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjAxOTE5NjgxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6836448561049468740",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T01:30:00-07:00",
+      "updated": "2021-07-25T01:30:34-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/decree.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/6836448561049468740",
+      "title": "Decree",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/6836448561049468740/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjAxODM0NzE4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3435763634875175995",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T01:29:00-07:00",
+      "updated": "2021-07-25T01:29:15-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/edict.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3435763634875175995",
+      "title": "Edict",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3435763634875175995/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjAxNzU1MjAxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5848416986481999190",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T01:28:00-07:00",
+      "updated": "2021-07-25T01:28:06-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/executive-order.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/5848416986481999190",
+      "title": "Executive order",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/5848416986481999190/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjAxNjg2MDg4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8828339341782177947",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T01:26:00-07:00",
+      "updated": "2021-07-25T01:26:35-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/delegated-legislation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8828339341782177947",
+      "title": "Delegated legislation",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8828339341782177947/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjAxNTk1NTU2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2130538330755062084",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T01:25:00-07:00",
+      "updated": "2021-07-25T01:25:06-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/rulemaking.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/2130538330755062084",
+      "title": "Rulemaking",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/2130538330755062084/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjAxNTA2MTM5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4579148848802735631",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T01:23:00-07:00",
+      "updated": "2021-07-25T01:23:16-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/precedent.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4579148848802735631",
+      "title": "Precedent",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4579148848802735631/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjAxMzk2NzMxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4511057974207207465",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T01:14:00-07:00",
+      "updated": "2021-07-25T01:14:36-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/statute.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4511057974207207465",
+      "title": "Statute",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4511057974207207465/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjAwODc2MTc4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3462280254592507100",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T01:12:00-07:00",
+      "updated": "2021-07-25T01:12:23-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/act-of-parliament.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3462280254592507100",
+      "title": "Act of Parliament",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3462280254592507100/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjAwNzQzMjI4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7839648863863449238",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T01:10:00-07:00",
+      "updated": "2021-07-25T01:10:17-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/canon-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7839648863863449238",
+      "title": "Canon law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7839648863863449238/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjAwNjE3NzMyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7257962663307834766",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T01:08:00-07:00",
+      "updated": "2021-07-25T01:08:31-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/civil-law-legal-system.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7257962663307834766",
+      "title": "Civil law (legal system)",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7257962663307834766/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjAwNTExMDA3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4437817502780406856",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T01:05:00-07:00",
+      "updated": "2021-07-25T01:05:01-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/common-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4437817502780406856",
+      "title": "Common law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4437817502780406856/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MjAwMzAxOTkwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1158839682072304298",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:56:00-07:00",
+      "updated": "2021-07-25T00:56:53-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/chinese-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/1158839682072304298",
+      "title": "Chinese law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/1158839682072304298/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk5ODEzODI5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3650099124394442195",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:46:00-07:00",
+      "updated": "2021-07-25T00:46:16-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/halakha.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3650099124394442195",
+      "title": "Halakha",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3650099124394442195/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk5MTc2Njg2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5236095456706600051",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:44:00-07:00",
+      "updated": "2021-07-25T00:44:36-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/roman-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/5236095456706600051",
+      "title": "Roman law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/5236095456706600051/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk5MDc2MzQ2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4321847413658571495",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:42:00-07:00",
+      "updated": "2021-07-25T00:42:48-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/law-of-russia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4321847413658571495",
+      "title": "Law of Russia",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4321847413658571495/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk4OTY4Mzg3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2334210851903414180",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:41:00-07:00",
+      "updated": "2021-07-25T00:41:05-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/sharia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/2334210851903414180",
+      "title": "Sharia",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/2334210851903414180/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk4ODY1NzcxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3284634627146204694",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:31:00-07:00",
+      "updated": "2021-07-25T00:31:42-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/socialist-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3284634627146204694",
+      "title": "Socialist law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3284634627146204694/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk4MzAyMjUzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8114749129654770206",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:29:00-07:00",
+      "updated": "2021-07-25T00:29:15-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/xeer.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8114749129654770206",
+      "title": "Xeer",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8114749129654770206/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk4MTU1ODcwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3246277983737467754",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:27:00-07:00",
+      "updated": "2021-07-25T00:27:40-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/critical-legal-studies.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3246277983737467754",
+      "title": "Critical legal studies",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3246277983737467754/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk4MDYwNzIyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8475883082803111868",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:25:00-07:00",
+      "updated": "2021-07-25T00:25:34-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/comparative-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8475883082803111868",
+      "title": "Comparative law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8475883082803111868/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk3OTM0Nzc1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7502738562795787683",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:23:00-07:00",
+      "updated": "2021-07-25T00:23:46-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/law-and-economics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7502738562795787683",
+      "title": "Law and economics",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7502738562795787683/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk3ODI2Mjg2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7469865011136670449",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:21:00-07:00",
+      "updated": "2021-07-25T00:21:48-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/legal-history.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7469865011136670449",
+      "title": "Legal history",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7469865011136670449/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk3NzA4NDA5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "838132317349978850",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:19:00-07:00",
+      "updated": "2021-07-25T00:19:46-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/international-legal-theories.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/838132317349978850",
+      "title": "International legal theories",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/838132317349978850/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk3NTg2OTgzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "899868949882948195",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:18:00-07:00",
+      "updated": "2021-07-25T00:18:20-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/jurisprudence.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/899868949882948195",
+      "title": "Jurisprudence",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/899868949882948195/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk3NTAwODQ1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8631127150633141184",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:16:00-07:00",
+      "updated": "2021-07-25T00:16:28-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/sociology-of-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8631127150633141184",
+      "title": "Sociology of law",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8631127150633141184/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk3Mzg4NDE2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4917167492721300054",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:14:00-07:00",
+      "updated": "2021-07-25T00:14:19-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/bureaucracy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4917167492721300054",
+      "title": "Bureaucracy",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4917167492721300054/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk3MjU5MjQwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3834024400413261114",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:12:00-07:00",
+      "updated": "2021-07-25T00:12:40-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/civil-society.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3834024400413261114",
+      "title": "Civil society",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/3834024400413261114/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk3MTYwMTk1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4333153410712029342",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:10:00-07:00",
+      "updated": "2021-07-25T00:10:40-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/election-commission.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4333153410712029342",
+      "title": "Election commission",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4333153410712029342/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk3MDQwMDgyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7838471805550165203",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-25T00:09:00-07:00",
+      "updated": "2021-07-25T00:09:06-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/executive-government.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7838471805550165203",
+      "title": "Executive (government)",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/7838471805550165203/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTk2OTQ2MDA5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8564994350311232329",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-24T16:09:00-07:00",
+      "updated": "2021-07-24T16:09:06-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/judiciary.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8564994350311232329",
+      "title": "Judiciary",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/8564994350311232329/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTY4MTQ2NjY2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "554295141724820250",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-24T16:07:00-07:00",
+      "updated": "2021-07-24T16:07:28-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/lawyer.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/554295141724820250",
+      "title": "Lawyer",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/554295141724820250/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTY4MDQ4NTE1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2570430755319954469",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-24T16:01:00-07:00",
+      "updated": "2021-07-24T16:01:12-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/legislature.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/2570430755319954469",
+      "title": "Legislature",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/2570430755319954469/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTY3NjcyNjI5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4538408058216872148",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-24T15:59:00-07:00",
+      "updated": "2021-07-24T15:59:04-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/military.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4538408058216872148",
+      "title": "Military",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/4538408058216872148/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTY3NTQ0ODkyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "232486988578782687",
+      "blog": {
+        "id": "169292078229053803"
+      },
+      "published": "2021-07-24T15:56:00-07:00",
+      "updated": "2021-07-24T15:56:33-07:00",
+      "url": "http://lawbookswiki.blogspot.com/2021/07/police.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/232486988578782687",
+      "title": "Police",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/169292078229053803/posts/232486988578782687/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3MTY3MzkzODY5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    }
+  ],
+  "etag": "\"MjAyMS0wNy0yNVQxNDoxODoyOC42NzJa\""
+}
